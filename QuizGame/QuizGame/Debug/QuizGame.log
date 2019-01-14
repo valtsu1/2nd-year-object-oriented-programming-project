@@ -1,0 +1,7 @@
+﻿  Question.cpp
+  QuizGame.cpp
+c:\users\pc\desktop\koulu\2. vuosi\2.jakso\c++\quizgame\quizgame\quizgame.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\pc\desktop\koulu\2. vuosi\2.jakso\c++\quizgame\quizgame\quizgame.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\pc\desktop\koulu\2. vuosi\2.jakso\c++\quizgame\quizgame\quizgame.cpp(86): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  QuizGame.vcxproj -> C:\Users\pc\Desktop\Koulu\2. Vuosi\2.Jakso\C++\QuizGame\Debug\QuizGame.exe
